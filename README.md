@@ -1,7 +1,10 @@
-![picture](https://pbs.twimg.com/profile_images/1903436793711656960/qi_-O5k8_400x400.jpg)
+![picture]([https://pbs.twimg.com/profile_images/1903436793711656960/qi-O5k8_400x400.jpg)](https://pbs.twimg.com/profile_images/1903436793711656960/qi_-O5k8_400x400.jpg)
+
 ## Hi there I'am Oluwafemi 
 Frontend Developer.| Graphic designer.| Project Admin
+
 [Whatsapp]() | [Github]() |[Linkedlin]().
+
 ---
 ## Profesional Focus
 I'm a passionate Web developer who loves creating, building, and solving problems with code.
