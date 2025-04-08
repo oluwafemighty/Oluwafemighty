@@ -1,4 +1,4 @@
-![picture](https://pbs.twimg.com/profile_images/1903436793711656960/qi_-O5k8_400x400.jpg)
+![picture](https://pbs.twimg.com/profile_banners/1774631956074160128/1742649542/600x200)
 
 ## Hi there I'am Oluwafemi 
 Frontend Developer.| Graphic designer.| Project Admin
