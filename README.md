@@ -1,8 +1,8 @@
 ![pic](https://images.pexels.com/photos/14653174/pexels-photo-14653174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 ## Hi there I'am Oluwafemi 
-Frontend Developer.| Graphic designer.| Project Admin
+Web3 explorer.| Content Writer.| Crypto Trader.| Project Admin
 
-[Whatsapp]() | [Github]() |[Linkedlin]().
+Whatsapp](https://chat.whatsapp.com/D1Et0qivMnVBLRI9KIrVst) | [Github]() |[Linkedlin]().
 
 ---
 ## Profesional Focus
