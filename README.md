@@ -1,16 +1,16 @@
-![pic](https://images.pexels.com/photos/14653174/pexels-photo-14653174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![pic](https://pbs.twimg.com/profile_images/1917491592467709952/iPRE1sjc.jpg)
 ## Hi there I'am Oluwafemi 
 Web3 explorer.| Content Writer.| Crypto Trader.| Project Admin
 
-Whatsapp](https://chat.whatsapp.com/D1Et0qivMnVBLRI9KIrVst) | [Github]() |[Linkedlin]().
+[Whatsapp]() | [Github]() |[Linkedlin]().
 
 ---
 ## Profesional Focus
 I'm a passionate Web developer who loves creating, building, and solving problems with code.
 ---
 # Core Skills
-- Web Develoer
-- Graphic Designer
+- Web Developer
+- Content Writer 
 - Project MOD
 - Group Admin
 ---
@@ -26,7 +26,7 @@ I'm a passionate Web developer who loves creating, building, and solving problem
 ---
 ## Additional Information
 - **Availability** Currently Available to Work
-- **Professional Interest** Group Admin or Project Manager
+- **Professional Interest** Group Admin or an Article Content Writer 
 - **Language** Fluent in English, Fluent in Yoruba
 --
 # Best Quote
